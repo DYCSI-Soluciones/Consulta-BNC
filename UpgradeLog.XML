@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ZConsultaBuro">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\ZConsultaBuro.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\ZConsultaBuro.suo">
+</Property><Property Name="Date" Value="Domingo, 19 de Diciembre de 2010">
+</Property><Property Name="Time" Value="16:13 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ZConsultaBuro.sln" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\ZConsultaBuro.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ZConsultaBuro.suo" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\ZConsultaBuro.suo">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="ZConsultaBuro.csproj" Description="Project file successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\ZConsultaBuro.csproj">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="ZConsultaBuro.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\ZConsultaBuro.csproj.user">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Class1.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Class1.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="ConnexionSAP.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\ConnexionSAP.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="ConnexionSAP1.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\ConnexionSAP1.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="FormatoINTL.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\FormatoINTL.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="RespuestaFormatoINTL.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\RespuestaFormatoINTL.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="SapConnectorClientToBC.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\SapConnectorClientToBC.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_AR.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_AR.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_ARTable.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_ARTable.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_CR.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_CR.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_CRTable.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_CRTable.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_HI.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_HI.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_HITable.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_HITable.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_HR.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_HR.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_HRTable.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_HRTable.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_INTL.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_INTL.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_INTLTable.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_INTLTable.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_IQ.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_IQ.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_IQTable.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_IQTable.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_PA.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_PA.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_PATable.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_PATable.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_PE.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_PE.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_PETable.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_PETable.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_PN.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_PN.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_PNTable.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_PNTable.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_RS.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_RS.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_RSTable.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_RSTable.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_SC.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_SC.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_SCTable.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_SCTable.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_TL.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_TL.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_TLTable.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_TLTable.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_UR.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_UR.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="Z00_BURO_URTable.cs" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\Z00_BURO_URTable.cs">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="SapConnectorClientToBC.sapwsdl" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\SapConnectorClientToBC.sapwsdl">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="App.ico" Description="File successfully backed up as C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="ZConsultaBuro.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ZConsultaBuro" Source="ZConsultaBuro.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ZConsultaBuro.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ZConsultaBuro.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ZConsultaBuro" Source="ZConsultaBuro.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

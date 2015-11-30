@@ -1,0 +1,28 @@
+C:\Users\DYCSILAP201207SB\Dropbox\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\bin\x86\Debug\ZConsultaBuro.exe.config
+C:\Users\DYCSILAP201207SB\Dropbox\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\bin\x86\Debug\ZConsultaBuro.exe
+C:\Users\DYCSILAP201207SB\Dropbox\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\bin\x86\Debug\ZConsultaBuro.pdb
+C:\Users\DYCSILAP201207SB\Dropbox\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\bin\x86\Debug\SAP.Connector.dll
+C:\Users\DYCSILAP201207SB\Dropbox\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\bin\x86\Debug\SAP.Connector.Rfc.dll
+C:\Users\DYCSILAP201207SB\Dropbox\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\obj\x86\Debug\ZConsultaBuro.exe
+C:\Users\DYCSILAP201207SB\Dropbox\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\obj\x86\Debug\ZConsultaBuro.pdb
+C:\Users\DYCSILAP201207SB\Dropbox\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\obj\x86\Debug\ZConsultaBuro.csprojResolveAssemblyReference.cache
+C:\Users\DYCSILAP 1401\Desktop\Allan\Allan Herrera\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\bin\x86\Debug\ZConsultaBuro.exe.config
+C:\Users\DYCSILAP 1401\Desktop\Allan\Allan Herrera\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\obj\x86\Debug\ZConsultaBuro.exe
+C:\Users\DYCSILAP 1401\Desktop\Allan\Allan Herrera\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\obj\x86\Debug\ZConsultaBuro.pdb
+C:\Users\DYCSILAP 1401\Desktop\Allan\Allan Herrera\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\bin\x86\Debug\ZConsultaBuro.exe
+C:\Users\DYCSILAP 1401\Desktop\Allan\Allan Herrera\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\bin\x86\Debug\ZConsultaBuro.pdb
+C:\Users\DYCSILAP 1401\Desktop\Allan\Allan Herrera\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\obj\x86\Debug\ZConsultaBuro.csprojResolveAssemblyReference.cache
+C:\Users\DYCSI\Google Drive\Joel\Allan\Allan Herrera\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\bin\x86\Debug\ZConsultaBuro.exe.config
+C:\Users\DYCSI\Google Drive\Joel\Allan\Allan Herrera\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\obj\x86\Debug\ZConsultaBuro.exe
+C:\Users\DYCSI\Google Drive\Joel\Allan\Allan Herrera\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\obj\x86\Debug\ZConsultaBuro.pdb
+C:\Users\DYCSI\Google Drive\Joel\Allan\Allan Herrera\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\bin\x86\Debug\ZConsultaBuro.exe
+C:\Users\DYCSI\Google Drive\Joel\Allan\Allan Herrera\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\bin\x86\Debug\ZConsultaBuro.pdb
+C:\Users\DYCSI\Google Drive\Joel\Allan\Allan Herrera\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\obj\x86\Debug\ZConsultaBuro.csprojResolveAssemblyReference.cache
+C:\Users\JOEL ORONA\Google Drive\Joel\Allan\Allan Herrera\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\bin\x86\Debug\ZConsultaBuro.exe.config
+C:\Users\JOEL ORONA\Google Drive\Joel\Allan\Allan Herrera\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\obj\x86\Debug\ZConsultaBuro.exe
+C:\Users\JOEL ORONA\Google Drive\Joel\Allan\Allan Herrera\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\obj\x86\Debug\ZConsultaBuro.pdb
+C:\Users\qasadm\Desktop\ZConsultaBuro\ZConsultaBuro\bin\x86\Debug\ZConsultaBuro.exe.config
+C:\Users\qasadm\Desktop\ZConsultaBuro\ZConsultaBuro\bin\x86\Debug\ZConsultaBuro.exe
+C:\Users\qasadm\Desktop\ZConsultaBuro\ZConsultaBuro\bin\x86\Debug\ZConsultaBuro.pdb
+C:\Users\qasadm\Desktop\ZConsultaBuro\ZConsultaBuro\obj\x86\Debug\ZConsultaBuro.exe
+C:\Users\qasadm\Desktop\ZConsultaBuro\ZConsultaBuro\obj\x86\Debug\ZConsultaBuro.pdb
