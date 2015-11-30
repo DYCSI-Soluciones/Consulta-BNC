@@ -1,0 +1,324 @@
+<VisualStudioProject>
+    <CSHARP
+        ProjectType = "Local"
+        ProductVersion = "7.10.3077"
+        SchemaVersion = "2.0"
+        ProjectGuid = "{5B4B972C-4EB8-483C-A565-5B7CF9572344}"
+    >
+        <Build>
+            <Settings
+                ApplicationIcon = "App.ico"
+                AssemblyKeyContainerName = ""
+                AssemblyName = "ZConsultaBuro"
+                AssemblyOriginatorKeyFile = ""
+                DefaultClientScript = "JScript"
+                DefaultHTMLPageLayout = "Grid"
+                DefaultTargetSchema = "IE50"
+                DelaySign = "false"
+                OutputType = "Exe"
+                PreBuildEvent = ""
+                PostBuildEvent = ""
+                RootNamespace = "ZConsultaBuro"
+                RunPostBuildEvent = "OnBuildSuccess"
+                StartupObject = ""
+            >
+                <Config
+                    Name = "Debug"
+                    AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "DEBUG;TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "true"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    NoStdLib = "false"
+                    NoWarn = ""
+                    Optimize = "false"
+                    OutputPath = "bin\Debug\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+                <Config
+                    Name = "Release"
+                    AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "false"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    NoStdLib = "false"
+                    NoWarn = ""
+                    Optimize = "true"
+                    OutputPath = "bin\Release\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.dll"
+                />
+                <Reference
+                    Name = "System.Data"
+                    AssemblyName = "System.Data"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Data.dll"
+                />
+                <Reference
+                    Name = "System.XML"
+                    AssemblyName = "System.Xml"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.XML.dll"
+                />
+                <Reference
+                    Name = "SAP.Connector"
+                    AssemblyName = "SAP.Connector"
+                    HintPath = "C:\Program Files\SAP\SAP .NET Connector 2.0\SAP.Connector.dll"
+                    AssemblyFolderKey = "hklm\sap .net connector"
+                />
+                <Reference
+                    Name = "SAP.Connector.Rfc"
+                    AssemblyName = "SAP.Connector.Rfc"
+                    HintPath = "C:\Program Files\SAP\SAP .NET Connector 2.0\SAP.Connector.Rfc.dll"
+                    AssemblyFolderKey = "hklm\sap .net connector"
+                />
+                <Reference
+                    Name = "System.Security"
+                    AssemblyName = "System.Security"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Security.dll"
+                />
+                <Reference
+                    Name = "System.Web"
+                    AssemblyName = "System.Web"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Web.dll"
+                />
+                <Reference
+                    Name = "System.Web.Services"
+                    AssemblyName = "System.Web.Services"
+                    HintPath = "C:\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Web.Services.dll"
+                />
+            </References>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "App.ico"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "AssemblyInfo.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Class1.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "ConnexionSAP.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                    Generator = "SAPConnectorGenerator"
+                    LastGenOutput = "ConnexionSAP1.cs"
+                />
+                <File
+                    RelPath = "ConnexionSAP1.cs"
+                    DependentUpon = "ConnexionSAP.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "FormatoINTL.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "RespuestaFormatoINTL.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "SapConnectorClientToBC.sapwsdl"
+                    BuildAction = "None"
+                    Generator = "SAPConnectorGenerator"
+                    LastGenOutput = "SapConnectorClientToBC.cs"
+                />
+                <File
+                    RelPath = "SapConnectorClientToBC.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "Z00_BURO_AR.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Z00_BURO_ARTable.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Z00_BURO_CR.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Z00_BURO_CRTable.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Z00_BURO_HI.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Z00_BURO_HITable.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Z00_BURO_HR.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Z00_BURO_HRTable.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Z00_BURO_INTL.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Z00_BURO_INTLTable.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Z00_BURO_IQ.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Z00_BURO_IQTable.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Z00_BURO_PA.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Z00_BURO_PATable.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Z00_BURO_PE.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Z00_BURO_PETable.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Z00_BURO_PN.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Z00_BURO_PNTable.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Z00_BURO_RS.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Z00_BURO_RSTable.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Z00_BURO_SC.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Z00_BURO_SCTable.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Z00_BURO_TL.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Z00_BURO_TLTable.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Z00_BURO_UR.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Z00_BURO_URTable.cs"
+                    DependentUpon = "SapConnectorClientToBC.sapwsdl"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+            </Include>
+        </Files>
+    </CSHARP>
+</VisualStudioProject>
+

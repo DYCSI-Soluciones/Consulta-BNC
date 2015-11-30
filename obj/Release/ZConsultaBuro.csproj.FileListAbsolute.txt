@@ -1,0 +1,3 @@
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn10\ZConsultaBuro\bin\Release\ZConsultaBuro.exe
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn10\ZConsultaBuro\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn10\ZConsultaBuro\obj\Release\ZConsultaBuro.exe

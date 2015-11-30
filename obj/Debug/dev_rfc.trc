@@ -1,0 +1,56 @@
+
+**** ERROR file opened at 20131202 175506 Hora estándar central (México), SAP-REL 730,0,223 RFC-VER 3 1337608 MT-SL
+T:5904 Error in program 'ZConsultaBuro2': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=200.57.135.2, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '200.57.135.2:3300' not reached
+TIME        Mon Dec 02 17:55:06 2013
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 200.57.135.2:3300
+SYSTEM CALL connect
+ERRNO       10061
+ERRNO TEXT  WSAECONNREFUSED: Connection refused
+COUNTER     1
+
+T:5904 Error in program 'ZConsultaBuro2': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=38 USER=CTDEV PASSWD=******* ASHOST=200.57.135.2 SYSNR=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20131202 175528 Hora estándar central (México), SAP-REL 730,0,223 RFC-VER 3 1337608 MT-SL
+T:5840 Error in program 'ZConsultaBuro2': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=200.57.135.2, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '200.57.135.2:3300' not reached
+TIME        Mon Dec 02 17:55:28 2013
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 200.57.135.2:3300
+SYSTEM CALL connect
+ERRNO       10061
+ERRNO TEXT  WSAECONNREFUSED: Connection refused
+COUNTER     1
+
+T:5840 Error in program 'ZConsultaBuro2': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=38 USER=CTDEV PASSWD=******* ASHOST=200.57.135.2 SYSNR=0 
+<<< RfcOpenEx failed
+
+

@@ -1,0 +1,28 @@
+
+**** ERROR file opened at 20131203 093802 Hora estándar central (México), SAP-REL 730,0,223 RFC-VER 3 1337608 MT-SL
+T:6308 Error in program 'ZConsultaBuro': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=10.30.2.230, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '10.30.2.230:3300' not reached
+TIME        Tue Dec 03 09:38:02 2013
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 10.30.2.230:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:6308 Error in program 'ZConsultaBuro': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=100 USER=DYCBURO PASSWD=******* ASHOST=10.30.2.230 SYSNR=0 
+<<< RfcOpenEx failed
+
+

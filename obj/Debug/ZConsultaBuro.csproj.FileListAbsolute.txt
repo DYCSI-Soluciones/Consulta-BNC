@@ -1,0 +1,91 @@
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\obj\Debug\ZConsultaBuro.exe
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\obj\Debug\ZConsultaBuro.pdb
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\bin\Debug\ZConsultaBuro.exe
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\bin\Debug\ZConsultaBuro.pdb
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\ZConsultaBuro\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn2\ZConsultaBuro\obj\Debug\ZConsultaBuro.exe
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn2\ZConsultaBuro\obj\Debug\ZConsultaBuro.pdb
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn2\ZConsultaBuro\bin\Debug\ZConsultaBuro.exe
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn2\ZConsultaBuro\bin\Debug\ZConsultaBuro.pdb
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn2\ZConsultaBuro\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn3\ZConsultaBuro\obj\Debug\ZConsultaBuro.exe
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn3\ZConsultaBuro\obj\Debug\ZConsultaBuro.pdb
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn3\ZConsultaBuro\bin\Debug\ZConsultaBuro.exe
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn3\ZConsultaBuro\bin\Debug\ZConsultaBuro.pdb
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn3\ZConsultaBuro\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn4\ZConsultaBuro\obj\Debug\ZConsultaBuro.exe
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn4\ZConsultaBuro\obj\Debug\ZConsultaBuro.pdb
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn4\ZConsultaBuro\bin\Debug\ZConsultaBuro.exe
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn4\ZConsultaBuro\bin\Debug\ZConsultaBuro.pdb
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn4\ZConsultaBuro\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn5\ZConsultaBuro\obj\Debug\ZConsultaBuro.exe
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn5\ZConsultaBuro\obj\Debug\ZConsultaBuro.pdb
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn5\ZConsultaBuro\bin\Debug\ZConsultaBuro.exe
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn5\ZConsultaBuro\bin\Debug\ZConsultaBuro.pdb
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn5\ZConsultaBuro\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn6\ZConsultaBuro\obj\Debug\ZConsultaBuro.exe
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn6\ZConsultaBuro\obj\Debug\ZConsultaBuro.pdb
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn6\ZConsultaBuro\bin\Debug\ZConsultaBuro.exe
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn6\ZConsultaBuro\bin\Debug\ZConsultaBuro.pdb
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn6\ZConsultaBuro\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn7\ZConsultaBuro\bin\Debug\ZConsultaBuro.exe
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn7\ZConsultaBuro\bin\Debug\ZConsultaBuro.pdb
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn7\ZConsultaBuro\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn7\ZConsultaBuro\obj\Debug\ZConsultaBuro.exe
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn7\ZConsultaBuro\obj\Debug\ZConsultaBuro.pdb
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn8\ZConsultaBuro\bin\Debug\ZConsultaBuro.exe
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn8\ZConsultaBuro\bin\Debug\ZConsultaBuro.pdb
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn8\ZConsultaBuro\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn8\ZConsultaBuro\obj\Debug\ZConsultaBuro.exe
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn8\ZConsultaBuro\obj\Debug\ZConsultaBuro.pdb
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn9\ZConsultaBuro\bin\Debug\ZConsultaBuro.exe
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn9\ZConsultaBuro\bin\Debug\ZConsultaBuro.pdb
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn9\ZConsultaBuro\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn9\ZConsultaBuro\obj\Debug\ZConsultaBuro.exe
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn9\ZConsultaBuro\obj\Debug\ZConsultaBuro.pdb
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn10\ZConsultaBuro\bin\Debug\ZConsultaBuro.exe.manifest
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn10\ZConsultaBuro\bin\Debug\ZConsultaBuro.application
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn10\ZConsultaBuro\bin\Debug\ZConsultaBuro.exe
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn10\ZConsultaBuro\bin\Debug\ZConsultaBuro.pdb
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn10\ZConsultaBuro\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn10\ZConsultaBuro\obj\Debug\ZConsultaBuro.TrustInfo.xml
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn10\ZConsultaBuro\obj\Debug\ZConsultaBuro.exe.manifest
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn10\ZConsultaBuro\obj\Debug\ZConsultaBuro.application
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn10\ZConsultaBuro\obj\Debug\ZConsultaBuro.exe
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn10\ZConsultaBuro\obj\Debug\ZConsultaBuro.pdb
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn12\ZConsultaBuro\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn12\ZConsultaBuro\bin\Debug\ZConsultaBuro.exe.manifest
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn12\ZConsultaBuro\bin\Debug\ZConsultaBuro.application
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn12\ZConsultaBuro\bin\Debug\ZConsultaBuro.exe
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn12\ZConsultaBuro\bin\Debug\ZConsultaBuro.pdb
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn12\ZConsultaBuro\obj\Debug\ZConsultaBuro.TrustInfo.xml
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn12\ZConsultaBuro\obj\Debug\ZConsultaBuro.exe.manifest
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn12\ZConsultaBuro\obj\Debug\ZConsultaBuro.application
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn12\ZConsultaBuro\obj\Debug\ZConsultaBuro.exe
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn12\ZConsultaBuro\obj\Debug\ZConsultaBuro.pdb
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn14\ZConsultaBuro\bin\Debug\ZConsultaBuro.exe.manifest
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn14\ZConsultaBuro\bin\Debug\ZConsultaBuro.application
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn14\ZConsultaBuro\bin\Debug\ZConsultaBuro.exe
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn14\ZConsultaBuro\bin\Debug\ZConsultaBuro.pdb
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn14\ZConsultaBuro\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn14\ZConsultaBuro\obj\Debug\ZConsultaBuro.TrustInfo.xml
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn14\ZConsultaBuro\obj\Debug\ZConsultaBuro.exe.manifest
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn14\ZConsultaBuro\obj\Debug\ZConsultaBuro.application
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn14\ZConsultaBuro\obj\Debug\ZConsultaBuro.exe
+C:\Documents and Settings\Jesus\Desktop\FinalVrcn\FinalVrsn14\ZConsultaBuro\obj\Debug\ZConsultaBuro.pdb
+C:\Users\DYCSILAP201207SB\Dropbox\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\bin\Debug\ZConsultaBuro.exe.config
+C:\Users\DYCSILAP201207SB\Dropbox\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\bin\Debug\ZConsultaBuro.exe.manifest
+C:\Users\DYCSILAP201207SB\Dropbox\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\bin\Debug\ZConsultaBuro.application
+C:\Users\DYCSILAP201207SB\Dropbox\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\bin\Debug\ZConsultaBuro.exe
+C:\Users\DYCSILAP201207SB\Dropbox\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\bin\Debug\ZConsultaBuro.pdb
+C:\Users\DYCSILAP201207SB\Dropbox\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\bin\Debug\SAP.Connector.dll
+C:\Users\DYCSILAP201207SB\Dropbox\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\bin\Debug\SAP.Connector.Rfc.dll
+C:\Users\DYCSILAP201207SB\Dropbox\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\obj\Debug\ZConsultaBuro.csprojResolveAssemblyReference.cache
+C:\Users\DYCSILAP201207SB\Dropbox\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\obj\Debug\ZConsultaBuro.TrustInfo.xml
+C:\Users\DYCSILAP201207SB\Dropbox\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\obj\Debug\ZConsultaBuro.exe.manifest
+C:\Users\DYCSILAP201207SB\Dropbox\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\obj\Debug\ZConsultaBuro.application
+C:\Users\DYCSILAP201207SB\Dropbox\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\obj\Debug\ZConsultaBuro.exe
+C:\Users\DYCSILAP201207SB\Dropbox\Desarrollo\NMP\E.5 - Interfaz de Buro\AHM Programa\FinalVrsn14\ZConsultaBuro\obj\Debug\ZConsultaBuro.pdb
+C:\Users\qasadm\Desktop\ZConsultaBuro\ZConsultaBuro\bin\Debug\ZConsultaBuro.exe.config
+C:\Users\qasadm\Desktop\ZConsultaBuro\ZConsultaBuro\obj\Debug\ZConsultaBuro.exe
+C:\Users\qasadm\Desktop\ZConsultaBuro\ZConsultaBuro\obj\Debug\ZConsultaBuro.pdb
