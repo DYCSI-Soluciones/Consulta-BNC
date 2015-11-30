@@ -1,0 +1,84 @@
+
+**** ERROR file opened at 20141201 102132 Hora estándar central (México), SAP-REL 730,0,223 RFC-VER 3 1337608 MT-SL
+T:7312 Error in program 'ZConsultaBuro': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=10.30.2.186, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '10.30.2.186:3310' not reached
+TIME        Mon Dec 01 10:21:32 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 10.30.2.186:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:7312 Error in program 'ZConsultaBuro': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=300 USER=DYCBUROQ PASSWD=******* ASHOST=10.30.2.186 SYSNR=10 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20141201 155653 Hora estándar central (México), SAP-REL 730,0,223 RFC-VER 3 1337608 MT-SL
+T:6400 Error in program 'ZConsultaBuro': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=10.30.2.186, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '10.30.2.186:3310' not reached
+TIME        Mon Dec 01 15:56:53 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 10.30.2.186:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:6400 Error in program 'ZConsultaBuro': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=300 USER=DYCBUROQ PASSWD=******* ASHOST=10.30.2.186 SYSNR=10 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20141201 155749 Hora estándar central (México), SAP-REL 730,0,223 RFC-VER 3 1337608 MT-SL
+T:5280 Error in program 'ZConsultaBuro': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=10.30.2.186, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '10.30.2.186:3310' not reached
+TIME        Mon Dec 01 15:57:49 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 10.30.2.186:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:5280 Error in program 'ZConsultaBuro': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=300 USER=DYCBUROQ PASSWD=******* ASHOST=10.30.2.186 SYSNR=10 
+<<< RfcOpenEx failed
+
+

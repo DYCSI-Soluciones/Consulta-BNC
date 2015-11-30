@@ -1,0 +1,281 @@
+
+**** ERROR file opened at , SAP-REL 710,0,0 RFC-VER 3 880476 MT-SL
+T:2884 Error in program 'ZConsultaBuro': ======> Connect to SAP gateway failed
+Connect_PM  GWHOST=200.57.135.2, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '200.57.135.2:3300' not reached
+
+TIME        Thu Jun 30 03:37:52 2005
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+
+**** ERROR file opened at , SAP-REL 710,0,0 RFC-VER 3 880476 MT-SL
+T:752 Error in program 'ZConsultaBuro': ======> Connect to SAP gateway failed
+Connect_PM  GWHOST=200.57.135.2, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '200.57.135.2:3300' not reached
+
+TIME        Thu Jun 30 03:40:29 2005
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+
+**** ERROR file opened at , SAP-REL 710,0,0 RFC-VER 3 880476 MT-SL
+T:4428 Error in program 'ZConsultaBuro': ======> Connect to SAP gateway failed
+Connect_PM  GWHOST=200.57.135.2, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '200.57.135.2:3300' not reached
+
+TIME        Thu Jun 30 03:42:34 2005
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+
+**** ERROR file opened at , SAP-REL 710,0,0 RFC-VER 3 880476 MT-SL
+T:920 Error in program 'ZConsultaBuro': ======> Connect to SAP gateway failed
+Connect_PM  GWHOST=200.57.135.4, GWSERV=sapgw03, SYSNR=03
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '200.57.135.4:3303' not reached
+
+TIME        Fri Jul 01 00:15:30 2005
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10061
+ERRNO TEXT  WSAECONNREFUSED: Connection refused
+COUNTER     1
+
+
+**** ERROR file opened at , SAP-REL 710,0,0 RFC-VER 3 880476 MT-SL
+T:3652 Error in program 'ZConsultaBuro': ======> Connect to SAP gateway failed
+Connect_PM  GWHOST=200.57.135.4, GWSERV=sapgw03, SYSNR=03
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '200.57.135.4:3303' not reached
+
+TIME        Fri Jul 01 00:16:13 2005
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10061
+ERRNO TEXT  WSAECONNREFUSED: Connection refused
+COUNTER     1
+
+
+**** ERROR file opened at , SAP-REL 710,0,0 RFC-VER 3 880476 MT-SL
+T:1868 Error in program 'ZConsultaBuro': ======> Connect to SAP gateway failed
+Connect_PM  GWHOST=200.57.135.2, GWSERV=sapgw38, SYSNR=38
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '200.57.135.2:3338' not reached
+
+TIME        Fri Jul 01 03:11:16 2005
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10061
+ERRNO TEXT  WSAECONNREFUSED: Connection refused
+COUNTER     1
+
+
+**** ERROR file opened at , SAP-REL 710,0,0 RFC-VER 3 880476 MT-SL
+T:5400 ======> Missing R3NAME=... or ASHOST=... in connect_param in RfcOpenEx
+
+**** ERROR file opened at , SAP-REL 710,0,0 RFC-VER 3 880476 MT-SL
+T:3624 ======> Missing R3NAME=... or ASHOST=... in connect_param in RfcOpenEx
+
+**** ERROR file opened at , SAP-REL 710,0,0 RFC-VER 3 880476 MT-SL
+T:1384 ======> Missing R3NAME=... or ASHOST=... in connect_param in RfcOpenEx
+
+**** ERROR file opened at , SAP-REL 710,0,0 RFC-VER 3 880476 MT-SL
+T:3448 ======> Missing R3NAME=... or ASHOST=... in connect_param in RfcOpenEx
+
+**** ERROR file opened at , SAP-REL 710,0,0 RFC-VER 3 880476 MT-SL
+T:1916 ======> Missing R3NAME=... or ASHOST=... in connect_param in RfcOpenEx
+
+**** ERROR file opened at , SAP-REL 710,0,0 RFC-VER 3 880476 MT-SL
+T:3712 ======> Missing R3NAME=... or ASHOST=... in connect_param in RfcOpenEx
+
+**** ERROR file opened at , SAP-REL 710,0,0 RFC-VER 3 880476 MT-SL
+T:924 ======> Missing R3NAME=... or ASHOST=... in connect_param in RfcOpenEx
+
+**** ERROR file opened at , SAP-REL 710,0,0 RFC-VER 3 880476 MT-SL
+T:5244 ======> Missing R3NAME=... or ASHOST=... in connect_param in RfcOpenEx
+
+**** ERROR file opened at , SAP-REL 710,0,0 RFC-VER 3 880476 MT-SL
+T:5448 ======> Missing R3NAME=... or ASHOST=... in connect_param in RfcOpenEx
+
+**** ERROR file opened at , SAP-REL 710,0,0 RFC-VER 3 880476 MT-SL
+T:4228 ======> Missing R3NAME=... or ASHOST=... in connect_param in RfcOpenEx
+
+**** ERROR file opened at , SAP-REL 710,0,0 RFC-VER 3 880476 MT-SL
+T:4952 Error in program 'ZConsultaBuro': ======> Connect to SAP gateway failed
+Connect_PM  GWHOST=200.57.135.2, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '200.57.135.2:3300' not reached
+
+TIME        Mon Dec 13 11:03:33 2010
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+
+**** ERROR file opened at , SAP-REL 710,0,0 RFC-VER 3 880476 MT-SL
+T:3500 Error in program 'ZConsultaBuro': ======> Connect to SAP gateway failed
+Connect_PM  GWHOST=200.57.135.2, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '200.57.135.2:3300' not reached
+
+TIME        Fri Dec 17 17:08:29 2010
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+
+**** ERROR file opened at , SAP-REL 710,0,0 RFC-VER 3 880476 MT-SL
+T:5976 Error in program 'ZConsultaBuro': ======> Connect to SAP gateway failed
+Connect_PM  GWHOST=200.57.135.2, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '200.57.135.2:3300' not reached
+
+TIME        Sun Dec 19 14:24:44 2010
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     1
+
+>TS> Sun Dec 19 14:24:48 2010
+T:5976 Error in program 'ZConsultaBuro': ======> Connect to SAP gateway failed
+Connect_PM  GWHOST=200.57.135.2, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '200.57.135.2:3300' not reached
+
+TIME        Sun Dec 19 14:24:48 2010
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     2
+
+
+**** ERROR file opened at , SAP-REL 710,0,0 RFC-VER 3 880476 MT-SL
+T:2000 Error in program 'ZConsultaBuro': ======> Connect to SAP gateway failed
+Connect_PM  GWHOST=200.57.135.2, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '200.57.135.2:3300' not reached
+
+TIME        Sat Jan 22 14:44:07 2011
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+
+**** ERROR file opened at , SAP-REL 710,0,0 RFC-VER 3 880476 MT-SL
+T:352 Error in program 'ZConsultaBuro': ======> Connect to SAP gateway failed
+Connect_PM  GWHOST=200.57.135.2, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '200.57.135.2:3300' not reached
+
+TIME        Sat Jan 22 15:37:16 2011
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -10
+MODULE      nixxi.cpp
+LINE        2985
+DETAIL      NiPConnect2
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+

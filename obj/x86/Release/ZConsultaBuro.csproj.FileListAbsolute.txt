@@ -1,0 +1,4 @@
+C:\Users\qasadm\Desktop\ZConsultaBuro\ZConsultaBuro\bin\x86\Release\ZConsultaBuro.exe.config
+C:\Users\qasadm\Desktop\ZConsultaBuro\ZConsultaBuro\bin\x86\Release\ZConsultaBuro.exe
+C:\Users\qasadm\Desktop\ZConsultaBuro\ZConsultaBuro\obj\x86\Release\ZConsultaBuro.csprojResolveAssemblyReference.cache
+C:\Users\qasadm\Desktop\ZConsultaBuro\ZConsultaBuro\obj\x86\Release\ZConsultaBuro.exe
